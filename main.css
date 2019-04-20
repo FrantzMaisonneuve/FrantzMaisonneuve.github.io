@@ -1,0 +1,36 @@
+body {
+  font-family: Montserrat;
+  margin: 0;
+  padding: 0;
+  color: darkslategrey;
+}
+
+.bnj {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+input {
+  height: 40px;
+  width: 400px;
+  border-radius: 20px;
+  border: solid 1px gray;
+  outline: none;
+  text-align: center;
+}
+
+.contenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: aquamarine;
+}
+
+.contenu2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
